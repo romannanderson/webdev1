@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+    background: cyan;
+    text-align: center;
+}
+
+div {
+    font-size: 60px;
+    background: orange;
+    text-align: center;
+    padding: 30px;
+    border: 10px solid blue;
+    margin: 60px;
+
+}
