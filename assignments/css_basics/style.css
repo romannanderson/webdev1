@@ -1,5 +1,89 @@
 h1 {
- color:darkolivegreen;
- te-size: 50px;
+ background:rgb(238, 130, 239);
+ font-size: 25px;
+text-align: center;
+border-style: solid;
+border-top-width: 3mm;
+border-color:rgb(144, 238, 144);
+border-bottom: rgb(238, 130, 239);
+border-left: rgb(238, 130, 239);
+border-right: rgb(238, 130, 239);
+padding: 2mm;
+margin-bottom: -4.5mm;
+margin-top: -2.9mm;
+margin-left: -2cm;
+margin-right: -2cm;
+}
 
+h2 {
+    background: rgb(255, 127, 80);
+    font-size: 19px;
+    padding: 2mm;
+    text-align: center;
+    border-style: solid;
+    border-bottom-width: 3mm;
+    border-color: rgb(144, 238, 144);
+    border-top: rgb(255, 127, 80);
+    border-left: rgb(255, 127, 80);
+    border-right:rgb(255, 127, 80);
+    margin-left: -2cm;
+    margin-right: -2cm;
+
+}
+
+body {
+    background: rgb(255, 192, 203);
+    
+
+}
+
+h3 {
+    background: rgb(249,250, 210);
+    font-size: 18px;
+    margin-bottom: -0.5mm;
+    margin-left: 1cm;
+    margin-right: 1cm;
+    border-style: solid;
+    border-color:rgb(249,250, 210);
+    padding: 1mm;
+
+}
+
+h4 {
+    background: rgb(249,250, 210);
+    font-size: 18px;
+    margin-bottom: -0.5mm;
+    margin-left: 1cm;
+    margin-right: 1cm;
+    border-style: solid;
+    border-color:rgb(249,250, 210);
+    padding: 1mm;
+}
+
+h5 {
+    background: rgb(249,250, 210);
+    font-size: 18px;
+    margin-bottom: -0.5mm;
+    margin-left: 1cm;
+    margin-right: 1cm;
+    border-style: solid;
+    border-color:rgb(249,250, 210);
+    padding: 1mm;
+}
+
+div {
+    background: rgb(173, 217, 230);
+    border-style: solid;
+    border-color:rgb(173, 217, 230);
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+
+footer {
+    background: rgb(211, 211, 211);
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(211, 211, 211);
+    margin-left: -1cm;
+    margin-right: -1cm;
 }
