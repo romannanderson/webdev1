@@ -1,0 +1,184 @@
+
+.bg-box {
+    background-color: pink;
+    height: 100%;
+    width: 100%;
+
+}
+.box-container {
+    background-color: #e4e3e3;
+    height: 550px;
+    width: 400px;
+    display: flex; 
+    flex-wrap: wrap;
+    margin-top: 100px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    z-index: 2;
+    
+}
+.box-1 {
+    background-color: red;
+    background-image: radial-gradient(circle, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    height: 40px;
+    flex-basis: 10%;
+    margin: 0.75cm;
+    border-radius: 10px;
+}
+.box-2 {
+    background-color: blue;
+    background: radial-gradient(circle at center, #e9f993 , #a393f9);
+    height: 40px;
+    flex-basis: 10%;
+    margin: 0.75cm;
+    border-radius: 10px;
+}
+.box-3 {
+    background-color: green;
+    background: radial-gradient(circle at center, #b6323b , #4664fd);
+    height: 40px;
+    flex-basis: 10%;
+    margin: 0.75cm;
+    border-radius: 10px;
+
+}
+.box-4 {
+    background-color: red;
+    background: radial-gradient(circle at center, #c0c44c , #f7af5e);
+    height: 40px;
+    flex-basis: 10%;
+    margin: 0.75cm;
+    border-radius: 10px;
+}
+.box-5 {
+    background-color: cyan;
+    background: radial-gradient(circle at center, #bea095 , #62ccf3);
+    height: 40px;
+    flex-basis: 10%;
+    margin: 0.75cm;
+    border-radius: 10px;
+}
+.box-6 {
+    height: 40px;
+    flex-basis: 10%;
+    background-color: darkorchid;
+    background: linear-gradient(315deg, #11b415 0%, #da808a 100%);
+    margin: 0.75cm; 
+    border-radius: 10px;
+}
+.box-7 {
+    background-color: blue;
+    background: linear-gradient(315deg, #8201ab 0%, #fcd0cf 100%);
+    height: 40px;
+    flex-basis: 10%;
+    margin: 0.75cm;
+    border-radius: 10px;
+}
+.box-8 {
+    background-color: magenta;
+    background: linear-gradient(315deg, #1e9341 0%, #8e65bf 100%);
+    height: 40px;
+    flex-basis: 10%;
+    margin: 0.75cm;
+    border-radius: 10px;
+}
+.box-9 {
+    background-color: red;
+    background: radial-gradient(circle at center, #b9287d , #3b3197);
+    height: 40px;
+    flex-basis: 10%;
+    margin: 0.75cm;
+    border-radius: 10px;
+}
+.box-10 {
+    background-color: olive;
+    background: linear-gradient(315deg, #9489e0 0%, #4e5867 100%);
+    height: 40px;
+    flex-basis: 10%;
+    margin: 0.75cm;
+    border-radius: 10px;
+}
+.box-11 {
+    background-color: green;
+    background: radial-gradient(circle at center, #df73ed , #2bf838);
+    height: 40px;
+    flex-basis: 10%;
+    margin: 0.75cm;
+    border-radius: 10px;
+}
+.box-12 {
+    background-color: purple;
+    background: linear-gradient(315deg, #8ba61b 0%, #8ec7fc 100%);
+    height: 40px;
+    flex-basis: 10%;
+    margin: 0.75cm;
+    border-radius: 10px;
+}
+.box-13 {
+    background-color: blue;
+    background: linear-gradient(315deg, #dec2a6 0%, #b942f8 100%);
+    height: 40px;
+    flex-basis: 10%;
+    margin: 0.75cm;
+    border-radius: 10px;
+}
+.box-14 {
+    background-color: peru;
+    background: radial-gradient(circle at center, #53440d , #e03a07);
+    height: 40px;
+    flex-basis: 10%;
+    margin: 0.75cm;
+    border-radius: 10px;
+}
+.box-15 {
+    background-color: palegreen;
+    background: radial-gradient(circle at center, #9c8b0a , #c2fc83);
+    height: 40px;
+    flex-basis: 10%;
+    margin: 0.75cm;
+    border-radius: 10px;
+}
+.box-16 {
+    background-color: red;
+    background: radial-gradient(circle at center, #c7e1e1 , #3b2a1e);
+    height: 40px;
+    flex-basis: 10%;
+    margin: 0.75cm;
+    border-radius: 10px;
+}
+.box-17 {
+    background-color: green;
+    background: linear-gradient(315deg, #374d6e 0%, #a679f6 100%);
+    height: 40px;
+    flex-basis: 10%;
+    margin: 0.75cm;
+    border-radius: 10px;
+}
+.box-18 {
+    background-color: salmon;
+    background: radial-gradient(circle at center, #f7bc4d , #09b2ec);
+    height: 40px;
+    flex-basis: 10%;
+    margin: 0.75cm;
+    border-radius: 10px;
+}
+.box-19 {
+    background-color: blue;
+    background: linear-gradient(315deg, #ef2500 0%, #09b2ec 100%);
+    height: 40px;
+    flex-basis: 10%;
+    margin: 0.75cm;
+    border-radius: 10px;
+}
+.box-20 {
+    background-color: gold;
+background: linear-gradient(315deg, #1366d2 0%, #966244 100%);
+    height: 40px;
+    width: 90px;
+    flex-basis: 10%;
+    margin: 0.75cm;
+    border-radius: 10px;
+}
+body {
+    background: salmon
+}
