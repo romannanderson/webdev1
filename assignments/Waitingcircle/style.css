@@ -1,0 +1,21 @@
+body {
+    background: black;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.circle {
+    border: 1rem solid white;
+    border-top-color:gray;
+    border-radius: 50%;
+    margin: 3rem;
+    height: 3rem;
+    width: 3rem;
+    animation: 2s spin infinite linear;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
