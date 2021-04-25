@@ -1,0 +1,31 @@
+* {margin: 0; padding: 0;}
+
+h1 {
+    color: purple;
+    background-color: salmon;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Annie Use Your Telescope';
+    margin: 1rem;
+}
+
+body {
+    color: pink;
+    background-color: pink;
+    margin: 1cm;
+}
+
+
+.grid-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 10fr));
+    grid-gap: 25px;
+    align-items: center;
+    }
+
+.grid-item {
+    border: 1px dotted purple;
+    box-shadow: 2px 2px 6px 0px  purple;
+    max-width: 100%;
+}
+
