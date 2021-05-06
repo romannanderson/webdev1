@@ -1,0 +1,49 @@
+body {
+    background: coral;
+}
+head {
+    background: cornsilk;
+    background-color: cornsilk;
+}
+h1 {
+    font-size: 60px;
+    color:cornsilk;
+    text-align: center;
+}
+h2 {
+    font-size: 20px;
+    color:cornsilk;
+    text-align: center;
+}
+h3 {
+    font-size: 50px;
+    text-align: center;
+}
+div {
+    text-align: center;
+    color:cornsilk;
+}
+.pushup img{
+    align-items: center;
+    position: relative;
+
+}
+.situp {
+    align-items: center;
+}
+.squats {
+    align-items: center;
+    position: relative;
+}
+.curl {
+    align-items: center;
+    position: relative;
+}
+.lunge {
+    align-items: center;
+    position: relative;
+}
+.legpress {
+    align-items: center;
+    position: relative;
+}
