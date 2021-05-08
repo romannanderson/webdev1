@@ -1,0 +1,49 @@
+body {
+    background-color: lightsalmon;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+  }
+  
+  #main-header {
+    background-color: coral;
+    color: white;
+  }
+  
+  #navbar {
+    background-color: darkred;
+    color: #fff;
+  }
+  
+  #navbar ul {
+    padding: 0;
+    list-style: none;
+  }
+  
+  #navbar li {
+    display: inline;
+  }
+  
+  #navbar a {
+    color: #fff;
+    font-size: 18px;
+    padding-right: 15px;
+  }
+  .grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    gap: 30px 20px;
+    grid-template-areas:
+      ". . ."
+      ". . ."
+      ". . ."
+      ". . .";
+  }
+  img{
+      width: 70%;
+      height: 70%;
+      margin: 1cm;
+  }
