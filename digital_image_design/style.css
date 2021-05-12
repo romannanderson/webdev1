@@ -1,0 +1,44 @@
+body {
+    color: rgb(241, 240, 238);
+    background-color: coral;
+    font-size: 20px;
+    text-align: center;
+}
+header {
+    background-color: cornsilk;
+    color: cornsilk;
+}
+
+h1 {
+    text-align: left;
+    background-color: crimson;
+}
+h2 {
+    font-size: 50px;
+}
+
+.div1 img{
+    width: 200px;
+    
+}
+.div2 img {
+    width: 300px;
+}
+.div3 img {
+    width: 500px;
+}
+.div4 img {
+    width: 600px;
+}
+.div5 img {
+    width: 300px;
+}
+.div6 img {
+    width: 600px;
+}
+.div7 img {
+    width: 600px;
+}
+.div8 img{
+    width: 400px;
+}
